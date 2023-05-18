@@ -1,0 +1,1 @@
+# veri_algoritma_odev14_sorular
