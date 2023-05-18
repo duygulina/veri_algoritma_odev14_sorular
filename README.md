@@ -5,13 +5,16 @@
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 Çözüm:<br>
-Root 7dir. Solunda 5(rootdan küçük), Sağında 8(rootdan büyük) bulunur
-        7
+Root 7dir. Solunda 5(rootdan küçük), Sağında 8(rootdan büyük) bulunur<br>
+
+            7
+           / \
+          5   8
+         / \   \
+        1   6   9
        / \
-      5   8 
-    /   \   \ 
-   1     6   9 
-  /  \ 
- 0    3        
-    /  \
-   2     4
+      0   3
+         / \
+        2   4 
+
+    
